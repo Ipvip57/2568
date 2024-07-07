@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to send messages to a Discord channel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "python-shell": "^2.0.3",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
